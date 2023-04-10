@@ -1,6 +1,6 @@
-local Keys = {
- "ALLAH",
- "GRIDDY"
+local keys = {
+	"Allah",
+	"Griddy"
 }
 
-return Keys
+return keys
