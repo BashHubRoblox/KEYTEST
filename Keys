@@ -1,6 +1,6 @@
-local keys = {
-	"Allah",
-	"Griddy"
-}
+local keys = {}
 
-return keys
+local function keys:GetKeys()
+	local WhitelistKeys = "HI"
+	return WhitelistKeys
+end
