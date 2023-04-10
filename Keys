@@ -1,0 +1,6 @@
+local Keys = {
+ "ALLAH",
+ "GRIDDY"
+}
+
+return Keys
